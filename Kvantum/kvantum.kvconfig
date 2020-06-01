@@ -1,0 +1,6 @@
+[General]
+theme=Sweet-transparent-toolbar
+
+[Applications]
+Sweet=systemsettings5
+Sweet-transparent-toolbar=dolphin

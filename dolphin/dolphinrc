@@ -1,0 +1,60 @@
+Height 1080=585
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAACSfwCAAAAAvsAAAAUAHAAbABhAGMAZQBzAEQAbwBjAGsBAAAAAAAAAkkAAABOAP////sAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAIA////AAAAAQAAANQAAAJJ/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAACoAAAIfAAABBQD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAIA////AAACxAAAAkkAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAwAAAAD/////AAAAAAAAAAA=
+Width 1920=952
+
+[CompactMode]
+FontWeight=50
+
+[DetailsMode]
+FontWeight=50
+PreviewSize=16
+
+[General]
+ShowFullPath=true
+ShowToolTips=true
+ShowZoomSlider=false
+UseTabForSwitchingSplitView=true
+Version=200
+ViewPropsTimestamp=2020,3,11,4,48,39
+
+[IconsMode]
+FontWeight=50
+
+[KPropertiesDialog]
+Height 1080=474
+Width 1920=376
+
+[MainWindow]
+Height 1080=676
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAACpPwCAAAAAvsAAAAUAHAAbABhAGMAZQBzAEQAbwBjAGsBAAAAAAAAAqQAAABOAP////sAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAIA////AAAAAQAAANQAAAJJ/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAACoAAAIfAAAAAgD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAIA////AAAEBAAAAqQAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAwAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1920=1272
+
+[MainWindow][Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[Open-with settings]
+CompletionMode=1
+History=ark,kon
+
+[PlacesPanel]
+IconSize=16
+
+[PreviewSettings]
+Plugins=audiothumbnail,blenderthumbnail,comicbookthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,mltpreview,mobithumbnail,opendocumentthumbnail,gsthumbnail,rawthumbnail,svgthumbnail,ffmpegthumbs
+
+[Search]
+Location=Everywhere
+
+[SettingsDialog]
+Height 1080=522
+Width 1920=565
+
+[Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[ViewPropertiesDialog]
+Height 1080=319
+Width 1920=398

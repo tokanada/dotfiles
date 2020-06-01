@@ -6,5 +6,27 @@
     ~/.bash_logout: bash_logout
     ~/.gitconfig: gitconfig
     ~/.zshrc: zshrc
-
-
+    ~/.mozilla/firefox/o2tl7ewh.default-release/chrome/userChrome.css: 
+        force: create
+        path: firefox/userChrome.css
+    ~/.mozilla/firefox/o2tl7ewh.default-release/chrome/userContent.css: firefox/userContent.css
+    ~/.local/share/konsole/Sweet.profile: konsole/Sweet.profile
+    ~/.local/share/konsole/Sweet.colorscheme: konsole/Sweet.colorscheme
+    ~/.local/share/konsole/Sweet-Mars.colorscheme: konsole/Sweet-Mars.colorscheme
+    ~/.local/share/color-schemes/Sweet.colors: Sweet.colors
+    ~/.local/share/kxmlgui5/dolphin/dolphinui.rc: dolphin/dolphinui.rc
+    ~/.config/onedrive/config: onedrive/config
+    ~/.config/latte/My Layout.layout.latte: latte/My Layout.layout.latte
+    ~/.config/Kvantum/Sweet-transparent-toolbar/Sweet-transparent-toolbar.svg: Kvantum/Sweet-transparent-toolbar.svg
+    ~/.config/Kvantum/Sweet-transparent-toolbar/Sweet-transparent-toolbar.kvconfig: Kvantum/Sweet-transparent-toolbar.kvconfig
+    ~/.config/Kvantum/Sweet/Sweet.svg: Kvantum/Sweet.svg
+    ~/.config/Kvantum/Sweet/Sweet.kvconfig: Kvantum/Sweet.kvconfig
+    ~/.config/Kvantum/kvantum.kvconfig: Kvantum/kvantum.kvconfig
+    ~/.config/breezerc: breezerc
+    ~/.config/plasmarc: plasmarc
+    ~/.config/plasmahudrc: plasmahudrc
+    ~/.config/lattedockrc: lattedockrc
+    ~/.config/konsolerc: konsolerc
+    ~/.config/kglobalshortcutsrc: kglobalshortcutsrc
+    ~/.config/dolphinrc: dolphin/dolphinrc
+    
